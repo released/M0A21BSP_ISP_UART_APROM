@@ -80,7 +80,7 @@ update @ 2022/07/05
 
 ![image](https://github.com/released/M0A21BSP_ISP_UART_APROM/blob/main/APROM_SRecord_cmd_file.jpg)
 		
-		- after project compile finish , binary size will be 56K (total application code size : 0x6000)
+		- after project compile finish , binary size will be 24K (total application code size : 0x6000)
 		
 		- under terminal , use keyboard , 'z' , 'Z' , will write specific value in SRAM flag , and return to boot loader
 	
